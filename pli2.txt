@@ -1,0 +1,26 @@
+add-choiic-menu fu 4
+add-choice-menu fu 4.
+add-choice-menu przycisk 2
+add-menu-button podmenu1
+press-button przycisk2
+save
+add-menu-button podmenu2
+add-menu-button podmenu2
+press-button podmenu1
+save
+add-choice-button fu 6
+delete-button fu4
+delete-button fu
+back
+delete podmenu1
+press-button podmenu2
+add-choice-button fu 4
+add-menu-button podmenu3
+press-button podmenu3
+add-choice-button fu 3
+add-choice-button fu 7
+back
+back
+delete-button podmenu2
+save
+end

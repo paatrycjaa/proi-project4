@@ -1,0 +1,15 @@
+kdsfjdk
+add-choice-button hop1 4.
+add-choice-button hop1 4
+add-choice-button hop2 4
+press-button hop1
+dsfjsdkfj
+add-menu-button pod1
+press-button pod1
+add-menu-button pod2
+press-button pod2
+add-menu-button pod3
+press-button pod3
+add-choice-button hop3 2
+save
+end

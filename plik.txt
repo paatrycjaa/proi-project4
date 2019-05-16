@@ -1,0 +1,29 @@
+add-menu-button podmenu1
+add-menu-button podmenu2
+add-choice-button fu1 1
+press-button podmenu1
+add-choice-button fu2 2
+add-menu-button podmenu3
+press-button podmenu3
+add-choice-button fu3 3
+save
+back
+delete-button podmenu3
+save
+add-menu-button podmenu4
+add-menu-button podmenu5
+add-choice-button fu6 1
+press-button podmenu4
+save
+add-choice-button fu1 1
+save
+delete-button fu1
+save
+add-choice-button fu2 4
+back
+press-button podmenu5
+add-choice-button fu3 5
+save
+end
+
+
